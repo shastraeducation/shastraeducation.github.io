@@ -1,0 +1,11 @@
+{
+  "name": "shastraeducation.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start -s -f '*.html,*.css'"
+  },
+  "repository": "https://github.com/shastraeducation/shastraeducation.github.io.git",
+  "author": "Ramesh Syangtan <rameshsyangtan92@gmail.com>",
+  "license": "MIT"
+}
